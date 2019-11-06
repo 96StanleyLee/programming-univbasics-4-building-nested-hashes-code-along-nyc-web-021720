@@ -53,7 +53,7 @@ epic_tragedy = {
     },
     heroine_friends: [{
       name: "Steven",
-      age: "44",
+      age: "30",
       attitude: "confused"
       },{
         name: "Nurse",
